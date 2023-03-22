@@ -1,0 +1,3379 @@
+[
+  {
+    "number_of_reviews": 77,
+    "number_of_stars": 4.4,
+    "top_industry_represented": [
+      "Information Technology and Services: 22",
+      "Insurance: 5",
+      "Banking: 4",
+      "Computer Software: 3",
+      "Financial Services: 3",
+      "Other: 60"
+    ],
+    "categories_on_g2": [
+      "ETL Tools",
+      "On-Premise Data Integration Software",
+      "Data Virtualization Software",
+      "Data Mapping Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Talend Data Integration",
+        "number_of_reviews": 61,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "On-Premise Data Integration",
+          "Data Mapping",
+          "ETL Tools"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/informatica-powercenter/reviews",
+      "company_name": "Informatica"
+    }
+  },
+  {
+    "number_of_reviews": 87,
+    "number_of_stars": 4.7,
+    "top_industry_represented": [
+      "Information Technology and Services: 7",
+      "Computer Software: 4",
+      "Media Production: 4",
+      "Financial Services: 3",
+      "Internet: 3",
+      "Other: 36"
+    ],
+    "categories_on_g2": [
+      "iPaaS Software",
+      "ETL Tools",
+      "Data Replication Software",
+      "Big Data Integration Platforms",
+      "Data Extraction Software",
+      "DataOps Platforms"
+    ],
+    "pricing": [
+      {
+        "plan": "Free Tier",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Enterprise plan",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Zapier",
+        "number_of_reviews": 1022,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "MuleSoft Anypoint Platform",
+        "number_of_reviews": 519,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Supermetrics",
+        "number_of_reviews": 506,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Integrately",
+        "number_of_reviews": 566,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "More usable",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Appy Pie",
+        "number_of_reviews": 995,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "More usable",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Cleo Integration Cloud",
+        "number_of_reviews": 430,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Veeam Backup & Replication",
+        "number_of_reviews": 365,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Replication"
+        ]
+      },
+      {
+        "competitor_name": "Acronis Cyber Backup",
+        "number_of_reviews": 617,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Replication"
+        ]
+      },
+      {
+        "competitor_name": "Celigo",
+        "number_of_reviews": 366,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Fivetran",
+        "number_of_reviews": 320,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Replication",
+          "Data Extraction",
+          "ETL Tools"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/keboola/reviews",
+      "company_name": "Keboola"
+    }
+  },
+  {
+    "number_of_reviews": 33,
+    "number_of_stars": 4.7,
+    "top_industry_represented": [
+      "Computer Software: 7",
+      "Information Technology and Services: 4",
+      "Accounting: 2",
+      "Higher Education: 2",
+      "Computer & Network Security: 1",
+      "Other: 24"
+    ],
+    "categories_on_g2": [
+      "iPaaS Software",
+      "Big Data Software",
+      "Database as a Service (DBaaS) Provider",
+      "ETL Tools",
+      "On-Premise Data Integration Software",
+      "Big Data Integration Platforms",
+      "Cloud Migration Software",
+      "Stream Analytics Software",
+      "DataOps Platforms",
+      "Reverse ETL Software",
+      "Event Stream Processing Software",
+      "Active Metadata Management Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Supermetrics",
+        "number_of_reviews": 506,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Cleo Integration Cloud",
+        "number_of_reviews": 430,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Better at meeting requirements",
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS",
+          "On-Premise Data Integration"
+        ]
+      },
+      {
+        "competitor_name": "Microsoft SQL Server",
+        "number_of_reviews": 2122,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "On-Premise Data Integration"
+        ]
+      },
+      {
+        "competitor_name": "Zapier",
+        "number_of_reviews": 1022,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Better at meeting requirements",
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Appy Pie",
+        "number_of_reviews": 995,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Better at support",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Oracle Database",
+        "number_of_reviews": 827,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Database as a Service (DBaaS)"
+        ]
+      },
+      {
+        "competitor_name": "IBM Db2",
+        "number_of_reviews": 600,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Database as a Service (DBaaS)"
+        ]
+      },
+      {
+        "competitor_name": "Amazon Relational Database Service (RDS)",
+        "number_of_reviews": 587,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Better at meeting requirements",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Database as a Service (DBaaS)"
+        ]
+      },
+      {
+        "competitor_name": "Integrately",
+        "number_of_reviews": 566,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "More usable",
+          "Better at support"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "MuleSoft Anypoint Platform",
+        "number_of_reviews": 519,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "More usable",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/nexla/reviews",
+      "company_name": "Nexla"
+    }
+  },
+  {
+    "number_of_reviews": 59,
+    "number_of_stars": 4.5,
+    "top_industry_represented": [
+      "Computer Software: 9",
+      "Information Technology and Services: 9",
+      "Internet: 5",
+      "Marketing and Advertising: 4",
+      "Consumer Goods: 3",
+      "Other: 53"
+    ],
+    "categories_on_g2": [
+      "ETL Tools"
+    ],
+    "pricing": [
+      {
+        "plan": "Standard Plans",
+        "price_per_month": {
+          "value": 100,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Enterprise",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Fivetran",
+        "number_of_reviews": 320,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Integrate.io",
+        "number_of_reviews": 154,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Hevo Data",
+        "number_of_reviews": 116,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Skyvia",
+        "number_of_reviews": 146,
+        "number_of_stars": 4.8,
+        "advantages_compared_to_company": [
+          "Easier to do business with",
+          "Better at meeting requirements",
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "AWS Glue",
+        "number_of_reviews": 80,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Supermetrics",
+        "number_of_reviews": 506,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Matillion ETL",
+        "number_of_reviews": 31,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Adverity",
+        "number_of_reviews": 183,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Workato",
+        "number_of_reviews": 282,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Funnel",
+        "number_of_reviews": 105,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/talend-stitch/reviews",
+      "company_name": "Stitch Data"
+    }
+  },
+  {
+    "number_of_reviews": 41,
+    "number_of_stars": 4.7,
+    "top_industry_represented": [
+      "Financial Services: 6",
+      "Computer Software: 3",
+      "Airlines/Aviation: 2",
+      "Automotive: 2",
+      "Building Materials: 1",
+      "Other: 22"
+    ],
+    "categories_on_g2": [
+      "Big Data Processing And Distribution Systems",
+      "Data Warehouse Software",
+      "Big Data Analytics Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Databricks Lakehouse Platform",
+        "number_of_reviews": 100,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Snowflake",
+        "number_of_reviews": 389,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Google Cloud BigQuery",
+        "number_of_reviews": 332,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Azure Synapse Analytics",
+        "number_of_reviews": 23,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Amazon Redshift",
+        "number_of_reviews": 300,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Druid",
+        "number_of_reviews": 31,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "IBM Db2",
+        "number_of_reviews": 600,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Microsoft SQL Server",
+        "number_of_reviews": 2122,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution"
+        ]
+      },
+      {
+        "competitor_name": "MATLAB",
+        "number_of_reviews": 660,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Posit",
+        "number_of_reviews": 547,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "Easier to set up",
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/dremio/reviews",
+      "company_name": "dremio"
+    }
+  },
+  {
+    "number_of_reviews": 17,
+    "number_of_stars": 4.6,
+    "top_industry_represented": [
+      "Insurance: 2",
+      "Retail: 2",
+      "Banking: 1",
+      "Computer Software: 1",
+      "Consumer Goods: 1",
+      "Other: 12"
+    ],
+    "categories_on_g2": [
+      "Big Data Processing And Distribution Systems",
+      "Data Warehouse Software",
+      "Big Data Analytics Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [],
+    "input": {
+      "company_website": "https://www.g2.com/products/starburst/reviews",
+      "company_name": "starburst"
+    }
+  },
+  {
+    "number_of_reviews": 100,
+    "number_of_stars": 4.6,
+    "top_industry_represented": [
+      "Financial Services: 8",
+      "Information Technology and Services: 7",
+      "Computer Software: 5",
+      "Internet: 4",
+      "Marketing and Advertising: 4",
+      "Other: 61"
+    ],
+    "categories_on_g2": [
+      "ETL Tools",
+      "Big Data Processing And Distribution Systems",
+      "Data Science and Machine Learning Platforms",
+      "Data Warehouse Software",
+      "Big Data Analytics Software",
+      "DataOps Platforms",
+      "AI & Machine Learning Operationalization (MLOps) Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Google Cloud BigQuery",
+        "number_of_reviews": 332,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Qubole",
+        "number_of_reviews": 259,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics",
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Snowflake",
+        "number_of_reviews": 389,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Easier to admin",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Dremio",
+        "number_of_reviews": 41,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Cloudera",
+        "number_of_reviews": 30,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Azure Synapse Analytics",
+        "number_of_reviews": 23,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Amazon Redshift",
+        "number_of_reviews": 300,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Easier to admin",
+          "Better at support"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Teradata Vantage",
+        "number_of_reviews": 142,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Posit",
+        "number_of_reviews": 547,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Easier to admin",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "IBM Db2",
+        "number_of_reviews": 600,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/databricks-lakehouse-platform/reviews",
+      "company_name": "databricks"
+    }
+  },
+  {
+    "number_of_reviews": 332,
+    "number_of_stars": 4.4,
+    "top_industry_represented": [
+      "Information Technology and Services: 23",
+      "Retail: 21",
+      "Computer Software: 19",
+      "Marketing and Advertising: 10",
+      "Financial Services: 9",
+      "Other: 182"
+    ],
+    "categories_on_g2": [
+      "Big Data Processing And Distribution Systems",
+      "Data Warehouse Software",
+      "Big Data Analytics Software",
+      "Columnar Databases"
+    ],
+    "pricing": [
+      {
+        "plan": "Free",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "On-Demand Pricing",
+        "price_per_month": {
+          "value": 5,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Annual Flat Rate",
+        "price_per_month": {
+          "value": 1700,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Monthly Flat Rate",
+        "price_per_month": {
+          "value": 2000,
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Snowflake",
+        "number_of_reviews": 389,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Columnar Databases",
+          "Big Data Processing and Distribution"
+        ]
+      },
+      {
+        "competitor_name": "Vertica",
+        "number_of_reviews": 177,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Columnar Databases",
+          "Big Data Processing and Distribution"
+        ]
+      },
+      {
+        "competitor_name": "Databricks Lakehouse Platform",
+        "number_of_reviews": 100,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [
+          "More usable",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Big Data Processing and Distribution",
+          "Big Data Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Cloudera",
+        "number_of_reviews": 30,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Big Data Processing and Distribution",
+          "Big Data Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Azure Synapse Analytics",
+        "number_of_reviews": 23,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Big Data Processing and Distribution",
+          "Big Data Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Amazon Redshift",
+        "number_of_reviews": 300,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Columnar Databases"
+        ]
+      },
+      {
+        "competitor_name": "Teradata Vantage",
+        "number_of_reviews": 142,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Big Data Processing and Distribution"
+        ]
+      },
+      {
+        "competitor_name": "IBM Db2",
+        "number_of_reviews": 600,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Dremio",
+        "number_of_reviews": 41,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Big Data Processing and Distribution",
+          "Big Data Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Qubole",
+        "number_of_reviews": 259,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Big Data Analytics"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/google-cloud-bigquery/reviews",
+      "company_name": "BigQuery"
+    }
+  },
+  {
+    "number_of_reviews": 177,
+    "number_of_stars": 4.3,
+    "top_industry_represented": [
+      "Information Technology and Services: 26",
+      "Computer Software: 24",
+      "Hospital & Health Care: 10",
+      "Telecommunications: 9",
+      "Retail: 8",
+      "Other: 130"
+    ],
+    "categories_on_g2": [
+      "Big Data Processing And Distribution Systems",
+      "Data Warehouse Software",
+      "Columnar Databases"
+    ],
+    "pricing": [
+      {
+        "plan": "Vertica Community Edition",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Vertica by the hour",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Vertica in the Clouds",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Vertica On Premise",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Snowflake",
+        "number_of_reviews": 389,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Easier to do business with",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse",
+          "Columnar Databases"
+        ]
+      },
+      {
+        "competitor_name": "Google Cloud BigQuery",
+        "number_of_reviews": 332,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Easier to admin",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse",
+          "Columnar Databases"
+        ]
+      },
+      {
+        "competitor_name": "Amazon Redshift",
+        "number_of_reviews": 300,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Data Warehouse",
+          "Columnar Databases"
+        ]
+      },
+      {
+        "competitor_name": "Teradata Vantage",
+        "number_of_reviews": 142,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Microsoft SQL Server",
+        "number_of_reviews": 2122,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "More expensive",
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution"
+        ]
+      },
+      {
+        "competitor_name": "IBM Db2",
+        "number_of_reviews": 600,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "MariaDB",
+        "number_of_reviews": 202,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Better at meeting requirements",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Columnar Databases"
+        ]
+      },
+      {
+        "competitor_name": "Databricks Lakehouse Platform",
+        "number_of_reviews": 100,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [
+          "Easier to do business with",
+          "Better at meeting requirements",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Oracle Exadata Cloud Service",
+        "number_of_reviews": 39,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Posit",
+        "number_of_reviews": 547,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Better at meeting requirements",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/vertica/reviews",
+      "company_name": "Vertica"
+    }
+  },
+  {
+    "number_of_reviews": 43,
+    "number_of_stars": 4.5,
+    "top_industry_represented": [
+      "Computer Software: 8",
+      "Financial Services: 4",
+      "Information Technology and Services: 4",
+      "Health, Wellness and Fitness: 2",
+      "Venture Capital & Private Equity: 2",
+      "Other: 28"
+    ],
+    "categories_on_g2": [
+      "ETL Tools",
+      "Data Warehouse Software",
+      "DataOps Platforms",
+      "Data Observability Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Snowflake",
+        "number_of_reviews": 389,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "IBM Db2",
+        "number_of_reviews": 600,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Supermetrics",
+        "number_of_reviews": 506,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Google Cloud BigQuery",
+        "number_of_reviews": 332,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Fivetran",
+        "number_of_reviews": 320,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Amazon Redshift",
+        "number_of_reviews": 300,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Workato",
+        "number_of_reviews": 282,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "NinjaCat",
+        "number_of_reviews": 258,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Singular",
+        "number_of_reviews": 204,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive",
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Census",
+        "number_of_reviews": 198,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "DataOps Platforms",
+          "ETL Tools"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/mozart-data-mozart-data/reviews",
+      "company_name": "Mozart"
+    }
+  },
+  {
+    "number_of_reviews": 1189,
+    "number_of_stars": 4.4,
+    "top_industry_represented": [
+      "Information Technology and Services: 134",
+      "Higher Education: 73",
+      "Computer Software: 72",
+      "Marketing and Advertising: 61",
+      "Financial Services: 57",
+      "Other: 1087"
+    ],
+    "categories_on_g2": [
+      "Analytics Platforms",
+      "Embedded Business Intelligence Software"
+    ],
+    "pricing": [
+      {
+        "plan": "Tableau Creator",
+        "price_per_month": {
+          "value": 70,
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [],
+    "input": {
+      "company_website": "https://www.g2.com/products/tableau-desktop/reviews",
+      "company_name": "Tableau"
+    }
+  },
+  {
+    "number_of_reviews": 1115,
+    "number_of_stars": 4.4,
+    "top_industry_represented": [
+      "Computer Software: 106",
+      "Information Technology and Services: 90",
+      "Internet: 87",
+      "Financial Services: 79",
+      "Marketing and Advertising: 67",
+      "Other: 952"
+    ],
+    "categories_on_g2": [
+      "Sales Analytics Software",
+      "Marketing Analytics Software",
+      "Digital Analytics Software",
+      "Analytics Platforms",
+      "Embedded Business Intelligence Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Mode",
+        "number_of_reviews": 230,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Easier to admin",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Marketing Analytics",
+          "Embedded Business Intelligence",
+          "Analytics Platforms",
+          "Digital Analytics"
+        ]
+      },
+      {
+        "competitor_name": "ThoughtSpot",
+        "number_of_reviews": 207,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms",
+          "Digital Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Zoho Analytics",
+        "number_of_reviews": 163,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Sales Analytics",
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Tableau Desktop",
+        "number_of_reviews": 1189,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Sisense",
+        "number_of_reviews": 752,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "More usable",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Mediafly Intelligence360 (formerly InsightSquared)",
+        "number_of_reviews": 717,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "More usable",
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Sales Analytics",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Domo",
+        "number_of_reviews": 640,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Qlik Sense",
+        "number_of_reviews": 637,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "More usable",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "MicroStrategy",
+        "number_of_reviews": 533,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Tableau Server",
+        "number_of_reviews": 428,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/looker/reviews",
+      "company_name": "Looker"
+    }
+  },
+  {
+    "number_of_reviews": 870,
+    "number_of_stars": 4.4,
+    "top_industry_represented": [
+      "Information Technology and Services: 125",
+      "Computer Software: 52",
+      "Financial Services: 36",
+      "Hospital & Health Care: 28",
+      "Management Consulting: 27",
+      "Other: 791"
+    ],
+    "categories_on_g2": [
+      "Analytics Platforms"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Tableau Desktop",
+        "number_of_reviews": 1189,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Looker",
+        "number_of_reviews": 1115,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Sisense",
+        "number_of_reviews": 752,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Domo",
+        "number_of_reviews": 640,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Qlik Sense",
+        "number_of_reviews": 637,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Posit",
+        "number_of_reviews": 547,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "Easier to set up",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Tableau Server",
+        "number_of_reviews": 428,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "SAP Analytics Cloud",
+        "number_of_reviews": 340,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Salesforce CRM Analytics (formerly Tableau CRM)",
+        "number_of_reviews": 336,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "MicroStrategy",
+        "number_of_reviews": 533,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/microsoft-microsoft-power-bi-desktop/reviews",
+      "company_name": "Power BI"
+    }
+  },
+  {
+    "number_of_reviews": 231,
+    "number_of_stars": 4.3,
+    "top_industry_represented": [
+      "Information Technology and Services: 31",
+      "Computer Software: 21",
+      "Financial Services: 17",
+      "Marketing and Advertising: 12",
+      "Transportation/Trucking/Railroad: 11",
+      "Other: 199"
+    ],
+    "categories_on_g2": [
+      "Analytics Platforms",
+      "Embedded Business Intelligence Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Tableau Desktop",
+        "number_of_reviews": 1189,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      },
+      {
+        "competitor_name": "Looker",
+        "number_of_reviews": 1115,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      },
+      {
+        "competitor_name": "Mode",
+        "number_of_reviews": 230,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "More usable",
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      },
+      {
+        "competitor_name": "ThoughtSpot",
+        "number_of_reviews": 207,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "More usable",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      },
+      {
+        "competitor_name": "Microsoft Power BI Desktop",
+        "number_of_reviews": 870,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Sisense",
+        "number_of_reviews": 752,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      },
+      {
+        "competitor_name": "Domo",
+        "number_of_reviews": 640,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      },
+      {
+        "competitor_name": "Qlik Sense",
+        "number_of_reviews": 637,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      },
+      {
+        "competitor_name": "Tableau Server",
+        "number_of_reviews": 428,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "More expensive",
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      },
+      {
+        "competitor_name": "MicroStrategy",
+        "number_of_reviews": 533,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Analytics Platforms",
+          "Embedded Business Intelligence"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/sigma-computing-sigma/reviews",
+      "company_name": "Sigma"
+    }
+  },
+  {
+    "number_of_reviews": 230,
+    "number_of_stars": 4.5,
+    "top_industry_represented": [
+      "Information Technology and Services: 31",
+      "Computer Software: 27",
+      "Internet: 19",
+      "Transportation/Trucking/Railroad: 10",
+      "Consumer Services: 9",
+      "Other: 209"
+    ],
+    "categories_on_g2": [
+      "Marketing Analytics Software",
+      "Digital Analytics Software",
+      "Analytics Platforms",
+      "Embedded Business Intelligence Software"
+    ],
+    "pricing": [
+      {
+        "plan": "Studio",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Business",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Enterprise",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Looker",
+        "number_of_reviews": 1115,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Marketing Analytics",
+          "Embedded Business Intelligence",
+          "Analytics Platforms",
+          "Digital Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Tableau Desktop",
+        "number_of_reviews": 1189,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Sisense",
+        "number_of_reviews": 752,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Domo",
+        "number_of_reviews": 640,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Tableau Server",
+        "number_of_reviews": 428,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Qlik Sense",
+        "number_of_reviews": 637,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Chartio",
+        "number_of_reviews": 284,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "More usable",
+          "Better at support",
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Microsoft Power BI Desktop",
+        "number_of_reviews": 870,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Sigma",
+        "number_of_reviews": 231,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      },
+      {
+        "competitor_name": "GoodData",
+        "number_of_reviews": 338,
+        "number_of_stars": 4.1,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Embedded Business Intelligence",
+          "Analytics Platforms"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/mode-mode/reviews",
+      "company_name": "Mode"
+    }
+  },
+  {
+    "number_of_reviews": 637,
+    "number_of_stars": 4.5,
+    "top_industry_represented": [
+      "Information Technology and Services: 55",
+      "Financial Services: 30",
+      "Computer Software: 28",
+      "Hospital & Health Care: 25",
+      "Retail: 24",
+      "Other: 464"
+    ],
+    "categories_on_g2": [
+      "Chatbots Software",
+      "Analytics Platforms",
+      "Embedded Business Intelligence Software",
+      "Predictive Analytics Software",
+      "Productivity Bots Software",
+      "Location Intelligence Software",
+      "Data Warehouse Automation Software"
+    ],
+    "pricing": [
+      {
+        "plan": "Qlik Sense® Business",
+        "price_per_month": {
+          "value": 30,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Qlik Sense Enterprise",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [],
+    "input": {
+      "company_website": "https://www.g2.com/products/qlik-sense/reviews",
+      "company_name": "Qlik"
+    }
+  },
+  {
+    "number_of_reviews": 121,
+    "number_of_stars": 4.4,
+    "top_industry_represented": [
+      "Information Technology and Services: 15",
+      "Computer Software: 9",
+      "Financial Services: 7",
+      "Banking: 6",
+      "Retail: 6",
+      "Other: 106"
+    ],
+    "categories_on_g2": [
+      "iPaaS Software",
+      "ETL Tools",
+      "Data Quality Software",
+      "Data Preparation Software"
+    ],
+    "pricing": [
+      {
+        "plan": "Enterprise",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Appy Pie",
+        "number_of_reviews": 995,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Supermetrics",
+        "number_of_reviews": 506,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Zapier",
+        "number_of_reviews": 1022,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "Easier to admin",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Cleo Integration Cloud",
+        "number_of_reviews": 430,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Celigo",
+        "number_of_reviews": 366,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Integrately",
+        "number_of_reviews": 566,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "MuleSoft Anypoint Platform",
+        "number_of_reviews": 519,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "HubSpot Operations Hub",
+        "number_of_reviews": 338,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to do business with",
+          "Easier to admin",
+          "Better at support"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Martini",
+        "number_of_reviews": 336,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "Better at support",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Fivetran",
+        "number_of_reviews": 320,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/trifacta/reviews",
+      "company_name": "Trifacta"
+    }
+  },
+  {
+    "number_of_reviews": 2,
+    "number_of_stars": 4.5,
+    "top_industry_represented": [],
+    "categories_on_g2": [
+      "iPaaS Software",
+      "Predictive Analytics Software",
+      "Data Science and Machine Learning Platforms",
+      "Big Data Integration Platforms",
+      "Master Data Management (MDM) Software",
+      "Data Preparation Software",
+      "Data Fabric Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Alteryx",
+        "number_of_reviews": 225,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Preparation",
+          "Data Science and Machine Learning Platforms",
+          "Predictive Analytics"
+        ]
+      },
+      {
+        "competitor_name": "MuleSoft Anypoint Platform",
+        "number_of_reviews": 519,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "RapidMiner",
+        "number_of_reviews": 492,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms",
+          "Predictive Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Zapier",
+        "number_of_reviews": 1022,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Appy Pie",
+        "number_of_reviews": 995,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Adobe Analytics",
+        "number_of_reviews": 880,
+        "number_of_stars": 4.1,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Predictive Analytics"
+        ]
+      },
+      {
+        "competitor_name": "MATLAB",
+        "number_of_reviews": 660,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Qlik Sense",
+        "number_of_reviews": 637,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Predictive Analytics"
+        ]
+      },
+      {
+        "competitor_name": "Integrately",
+        "number_of_reviews": 566,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "iPaaS"
+        ]
+      },
+      {
+        "competitor_name": "Posit",
+        "number_of_reviews": 547,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/palantir-foundry/reviews",
+      "company_name": "Palantir"
+    }
+  },
+  {
+    "number_of_reviews": 61,
+    "number_of_stars": 4.3,
+    "top_industry_represented": [
+      "Information Technology and Services: 8",
+      "Internet: 6",
+      "Banking: 4",
+      "Computer Software: 4",
+      "Financial Services: 4",
+      "Other: 55"
+    ],
+    "categories_on_g2": [
+      "Data Warehouse Software"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Snowflake",
+        "number_of_reviews": 389,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Easier to set up",
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Amazon Redshift",
+        "number_of_reviews": 300,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to set up"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Vertica",
+        "number_of_reviews": 177,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Google Cloud BigQuery",
+        "number_of_reviews": 332,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Easier to set up",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Cloudera",
+        "number_of_reviews": 30,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "IBM Db2",
+        "number_of_reviews": 600,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Teradata Vantage",
+        "number_of_reviews": 142,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Databricks Lakehouse Platform",
+        "number_of_reviews": 100,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements",
+          "More usable"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Azure Synapse Analytics",
+        "number_of_reviews": 23,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Hive",
+        "number_of_reviews": 55,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/vmware-greenplum/reviews",
+      "company_name": "green plum"
+    }
+  },
+  {
+    "number_of_reviews": 320,
+    "number_of_stars": 4.2,
+    "top_industry_represented": [
+      "Computer Software: 30",
+      "Information Technology and Services: 22",
+      "Financial Services: 20",
+      "Marketing and Advertising: 8",
+      "Education Management: 7",
+      "Other: 176"
+    ],
+    "categories_on_g2": [
+      "ETL Tools",
+      "Data Replication Software",
+      "Data Extraction Software"
+    ],
+    "pricing": [
+      {
+        "plan": "Starter Plan",
+        "price_per_month": {
+          "value": 0.01,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Standard Plan",
+        "price_per_month": {
+          "value": 0.01,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Enterprise Plan",
+        "price_per_month": {
+          "value": 0.01,
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Hevo Data",
+        "number_of_reviews": 116,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with",
+          "More usable"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Replication",
+          "ETL Tools",
+          "Data Extraction"
+        ]
+      },
+      {
+        "competitor_name": "Integrate.io",
+        "number_of_reviews": 154,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Replication",
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "AWS Glue",
+        "number_of_reviews": 80,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [
+          "Easier to do business with",
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Replication",
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Talend Data Integration",
+        "number_of_reviews": 61,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Replication",
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Supermetrics",
+        "number_of_reviews": 506,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Workato",
+        "number_of_reviews": 282,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "AWS Database Migration Service",
+        "number_of_reviews": 35,
+        "number_of_stars": 3.9,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Replication",
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Adverity",
+        "number_of_reviews": 183,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Qlik Replicate",
+        "number_of_reviews": 106,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Replication",
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Funnel",
+        "number_of_reviews": 105,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with",
+          "Better at meeting requirements"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/fivetran/reviews",
+      "company_name": "Fivetran"
+    }
+  },
+  {
+    "number_of_reviews": 4,
+    "number_of_stars": 4.5,
+    "top_industry_represented": [],
+    "categories_on_g2": [
+      "ETL Tools"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Supermetrics",
+        "number_of_reviews": 506,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Fivetran",
+        "number_of_reviews": 320,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Workato",
+        "number_of_reviews": 282,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "NinjaCat",
+        "number_of_reviews": 258,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Singular",
+        "number_of_reviews": 204,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Census",
+        "number_of_reviews": 198,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Adverity",
+        "number_of_reviews": 183,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "SnapLogic Intelligent Integration Platform (IIP)",
+        "number_of_reviews": 174,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Integrate.io",
+        "number_of_reviews": 154,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      },
+      {
+        "competitor_name": "Skyvia",
+        "number_of_reviews": 146,
+        "number_of_stars": 4.8,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "ETL Tools"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/precog/reviews",
+      "company_name": "Precog"
+    }
+  },
+  {
+    "number_of_reviews": 3,
+    "number_of_stars": 5,
+    "top_industry_represented": [],
+    "categories_on_g2": [
+      "Data Science and Machine Learning Platforms"
+    ],
+    "pricing": [],
+    "top_10_competitors": [
+      {
+        "competitor_name": "MATLAB",
+        "number_of_reviews": 660,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Posit",
+        "number_of_reviews": 547,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "RapidMiner",
+        "number_of_reviews": 492,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Qubole",
+        "number_of_reviews": 259,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Alteryx",
+        "number_of_reviews": 225,
+        "number_of_stars": 4.5,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "IBM Watson Studio",
+        "number_of_reviews": 198,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "IBM SPSS Modeler",
+        "number_of_reviews": 135,
+        "number_of_stars": 3.9,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Databricks Lakehouse Platform",
+        "number_of_reviews": 100,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Anaconda",
+        "number_of_reviews": 98,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      },
+      {
+        "competitor_name": "Google Cloud AI Platform",
+        "number_of_reviews": 86,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Data Science and Machine Learning Platforms"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/civis/reviews",
+      "company_name": "Civis Analytics"
+    }
+  },
+  {
+    "number_of_reviews": 389,
+    "number_of_stars": 4.5,
+    "top_industry_represented": [
+      "Financial Services: 42",
+      "Computer Software: 41",
+      "Information Technology and Services: 32",
+      "Marketing and Advertising: 16",
+      "Hospital & Health Care: 11",
+      "Other: 312"
+    ],
+    "categories_on_g2": [
+      "Database Management Systems (DBMS)",
+      "Big Data Processing And Distribution Systems",
+      "Data Warehouse Software",
+      "Columnar Databases",
+      "Data Clean Room Software"
+    ],
+    "pricing": [
+      {
+        "plan": "Standard",
+        "price_per_month": {
+          "value": 2,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Enterprise",
+        "price_per_month": {
+          "value": 3,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Business Critical",
+        "price_per_month": {
+          "value": 4,
+          "symbol": "$"
+        }
+      },
+      {
+        "plan": "Virtual Private Snowflake",
+        "price_per_month": {
+          "symbol": "$"
+        }
+      }
+    ],
+    "top_10_competitors": [
+      {
+        "competitor_name": "Google Cloud BigQuery",
+        "number_of_reviews": 332,
+        "number_of_stars": 4.4,
+        "advantages_compared_to_company": [
+          "Easier to admin"
+        ],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Columnar Databases",
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Vertica",
+        "number_of_reviews": 177,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Columnar Databases",
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Amazon Redshift",
+        "number_of_reviews": 300,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Columnar Databases",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Druid",
+        "number_of_reviews": 31,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Columnar Databases",
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Teradata Vantage",
+        "number_of_reviews": 142,
+        "number_of_stars": 4.2,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "IBM Db2",
+        "number_of_reviews": 600,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "Slower to reach roi",
+          "More expensive"
+        ],
+        "product_category": [
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Databricks Lakehouse Platform",
+        "number_of_reviews": 100,
+        "number_of_stars": 4.6,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Dremio",
+        "number_of_reviews": 41,
+        "number_of_stars": 4.7,
+        "advantages_compared_to_company": [
+          "Better at support",
+          "Easier to do business with"
+        ],
+        "problems_compared_to_company": [
+          "Slower to reach roi"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Cloudera",
+        "number_of_reviews": 30,
+        "number_of_stars": 4,
+        "advantages_compared_to_company": [],
+        "problems_compared_to_company": [],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      },
+      {
+        "competitor_name": "Azure Synapse Analytics",
+        "number_of_reviews": 23,
+        "number_of_stars": 4.3,
+        "advantages_compared_to_company": [
+          "Easier to admin",
+          "Better at support"
+        ],
+        "problems_compared_to_company": [
+          "More expensive"
+        ],
+        "product_category": [
+          "Big Data Processing and Distribution",
+          "Data Warehouse"
+        ]
+      }
+    ],
+    "input": {
+      "company_website": "https://www.g2.com/products/snowflake/reviews",
+      "company_name": "snowflake"
+    }
+  },
+  {
+    "number_of_reviews": 5,
+    "number_of_stars": 4.1,
+    "top_industry_represented": [],
+    "categories_on_g2": [
+      "ETL Tools"
+    ],
+    "pricing": [],
+    "top_10_competitors": [],
+    "input": {
+      "company_website": "https://www.g2.com/products/airbyte/reviews",
+      "company_name": "Airbyte"
+    }
+  },
+  {
+    "input": {
+      "company_website": "https://www.g2.com/products/ascend-io-cloud/reviews",
+      "company_name": "ascend.io"
+    },
+    "error": "Crawler error: waiting for selector \".sidebar--product__container, #challenge-stage\" failed: timeout 60000ms exceeded"
+  }
+]
